@@ -1,0 +1,23 @@
+.avatarDiv{
+    padding-top:10rem ;
+    padding-bottom: 11rem;
+    background-color: #1abc9c;
+}
+
+.mainImg{
+    margin: auto;
+    width: 250px;
+}
+.imgThum{
+    padding-top: 3rem;
+    padding-bottom: 0.1rem;
+}
+
+.imgThum h2{
+    text-transform: uppercase !important;
+}
+
+.line{
+    height: 4px;
+    width: 80px;
+}

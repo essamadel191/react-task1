@@ -1,0 +1,28 @@
+.navbar_main {
+    background-color: #2c3e50 !important;
+}
+
+.Nlinks {
+    display: flex;
+    gap: 1rem;
+}
+
+.navLink {
+    color: white !important;
+    font-weight: 700;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    transition: 0.5s ease;
+    text-decoration: none;
+    transition: background-color 0.5s ease, color 0.5s ease;
+}
+
+.navLink:hover {
+    background-color: #34495e;
+}
+
+.activeLink {
+    background-color: #1abc9c;
+    color: white !important;
+    transition: background-color 0.5s ease, color 0.5s ease;
+}

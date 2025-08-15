@@ -1,0 +1,14 @@
+.avatarDiv{
+    padding-top:15rem ;
+    padding-bottom: 20rem;
+    background-color: #1abc9c;
+}
+.aboutHeader{
+    padding-top: 3rem;
+    padding-bottom: 0.1rem;
+}
+
+.line{
+    height: 4px;
+    width: 80px;
+}
